@@ -5,7 +5,7 @@ const DemoButton = (props:any) => {
     const {color, variant} = props
     return (
         <div>
-            <Button color={color} variant={variant}> Button </Button>
+            <Button color={color} variant={variant}>    </Button>
             
         </div>
     )
